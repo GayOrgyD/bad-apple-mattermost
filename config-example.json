@@ -1,0 +1,18 @@
+{
+	"framesPreferences": {
+		"dir": "frames",
+		"template": "output_%",
+		"extention": "jpg",
+		"templateLength": 4,
+		"outputSize": {
+			"width": 32,
+			"height": 24
+		},
+		"asciiChars": "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. ",
+		"start": 1,
+		"end": 6494,
+		"duration": 220,
+		"targetFps": 5
+	},
+	"hook": "https://mattermost.corporation.vip/hooks/XXXXXXXXXXXXXXXXXXXXXXXXXX"
+}
